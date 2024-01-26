@@ -18,8 +18,7 @@ Here are the technologies and tools I work with:
 - **Programming Languages:** C++, SQL, Python
 - **Version Control:** Git/GitHub
 - **Database:** MS SQL Server,PostgreSql
-- **Software:**Postman, Figma
-
+- **Software:** Postman, Figma
 
 
 ## Top Languages
