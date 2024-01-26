@@ -1,11 +1,5 @@
 # Hi there! 👋 I'm Gunel Azizova
 
-## Top Languages
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LittleSmile05&layout=compact)](https://github.com/LittleSmile05)
-
-
-
 
 I'm a Computer Science student and web developer passionate about Machine Learning. Welcome to my GitHub profile!
 
@@ -27,6 +21,10 @@ Here are the technologies and tools I work with:
 - **Software:**Postman, Figma
 
 
+
+## Top Languages
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LittleSmile05&layout=compact)](https://github.com/LittleSmile05)
 
 ## Connect with Me
 
