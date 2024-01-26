@@ -1,6 +1,7 @@
 # Hi there! 👋 I'm Gunel Azizova
 
-https://avatars.mds.yandex.net/i?id=2d15b811398627877e8d7d5d58c9ecc3-5221361-images-thumbs&ref=rim&n=33&w=288&h=225
+![Gunel's GitHub Stats](https://mir-s3-cdn-cf.behance.net/projects/max_808/e9592890946411.Y3JvcCwyOTk3LDIzNDQsMjksMzI2.jpg)
+
 
 I'm a Computer Science student and web developer passionate about Machine Learning. Welcome to my GitHub profile!
 
