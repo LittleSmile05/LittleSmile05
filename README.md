@@ -1,9 +1,5 @@
 # Hi there! 👋 I'm Gunel Azizova
 
-## GitHub Stats
-
-[![Gunel’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=LittleSmile05)](https://github.com/LittleSmile05)
-
 ## Top Languages
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LittleSmile05&layout=compact)](https://github.com/LittleSmile05)
