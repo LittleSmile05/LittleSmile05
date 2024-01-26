@@ -5,7 +5,7 @@ I'm a Computer Science student and web developer passionate about Machine Learni
 
 ## About Me
 
-- 🌱 I'm currently a student at UNEC.
+- 🌱 I'm currently a CS student at UNEC.
 - 💻 I won the project on CS50x Azerbaijan in web development.
 - 🚀Achievements: Pull Shark 🏆, YOLO 🚀, Quickdraw 🎨.
 
