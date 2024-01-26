@@ -28,7 +28,7 @@ Here are the technologies and tools I work with:
 
 ## Connect with Me
 
-- [LinkedIn]:(https://www.linkedin.com/in/gunel-azizova-604729259/)
+- Linkedin :(https://www.linkedin.com/in/gunel-azizova-604729259/)
 
 ## How to Reach Me
 
