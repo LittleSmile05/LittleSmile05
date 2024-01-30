@@ -17,13 +17,15 @@ Here are the technologies and tools I work with:
 - **Machine Learning:** Python, Tensorflow
 - **Programming Languages:** C++, SQL, Python
 - **Version Control:** Git/GitHub
-- **Database:** MS SQL Server,PostgreSql
+- **Database:** MS SQL Server,PostgreSQL
 - **Software:** Postman, Figma
 
 
 ## Top Languages
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LittleSmile05&layout=compact)](https://github.com/LittleSmile05)
+
+<img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=REPO_NAME&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">
 
 ## Connect with Me
 
