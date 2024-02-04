@@ -34,6 +34,6 @@ Here are the technologies and tools I work with:
 
 Feel free to reach out if you want to collaborate on a project, discuss ML
 
-- Website: https://gunelazizova-portfolio-ac1ff0.netlify.app/
+- Website: https://gunelazizova-portfolio-22296c.netlify.app/
 
 Thanks for stopping by! 😊
