@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Gunel Azizova
+# Hi there! 👋 I'm Gunel
 
 
 I'm a Computer Science student and web developer passionate about Machine Learning. Welcome to my GitHub profile!
