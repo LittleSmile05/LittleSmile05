@@ -1,6 +1,7 @@
 # Hi there! 👋 I'm Gunel
 
-![Lofi Girl Using Laptop in Balcony](https://moewalls.com/wp-content/uploads/2022/06/lofi-girl-using-laptop-in-balcony-thumb.jpg)
+
+![Lofi Girl Using Laptop in Balcony](https://moewalls.com/wp-content/uploads/2022/06/lofi-girl-using-laptop-in-balcony-thumb.jpg?imh=300)
 
 
 
