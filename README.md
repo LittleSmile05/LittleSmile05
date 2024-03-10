@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Gunel
 
-![Image Name](https://img.tukuppt.com/bg_grid/18/55/65/7o1bwwzekU.jpg!/fh/350)
+![Image Name](https://thumb.ac-illust.com/55/5535b5c7b424719fd919469f2d7c55f9_t.jpeg?)
 
 
 I'm a Computer Science student and web developer passionate about Machine Learning. Welcome to my GitHub profile!
