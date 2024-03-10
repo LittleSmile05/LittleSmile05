@@ -1,5 +1,5 @@
 # Hi there! 👋 I'm Gunel
-
+![Anime Girls Computer Skyscraper](https://c.wallhere.com/photos/52/21/anime_girls_computer_skyscraper_night_urban_reflection_cafes_Japan-1455135.jpg!d)
 
 I'm a Computer Science student and web developer passionate about Machine Learning. Welcome to my GitHub profile!
 
@@ -34,6 +34,6 @@ Here are the technologies and tools I work with:
 
 Feel free to reach out if you want to collaborate on a project, discuss ML
 
-- Website: https://gunelazizova-portfolio-22296c.netlify.app/
+- Website: https://gunelazizova-portfolio-80da80.netlify.app/
 
 Thanks for stopping by! 😊
