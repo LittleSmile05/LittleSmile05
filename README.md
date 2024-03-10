@@ -1,5 +1,6 @@
 # Hi there! 👋 I'm Gunel
-![Anime Girls Computer Skyscraper](https://c.wallhere.com/photos/52/21/anime_girls_computer_skyscraper_night_urban_reflection_cafes_Japan-1455135.jpg!d)
+![Steam User Image](https://steamuserimages-a.akamaihd.net/ugc/1816645198248182804/1BDF9EF43F46AB62A6A0B5DEBBAB37C2E313516A/?imw=512&amp;imh=323&amp;ima=fit&amp;impolicy=Letterbox&amp;imcolor=%23000000&amp;letterbox=true)
+
 
 I'm a Computer Science student and web developer passionate about Machine Learning. Welcome to my GitHub profile!
 
