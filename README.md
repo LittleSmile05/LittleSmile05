@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Gunel
 
-![Image Name](https://thumb.ac-illust.com/55/5535b5c7b424719fd919469f2d7c55f9_t.jpeg?)  [<img src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="Git Icon" width="70"/>](https://github.com/)
+![Image Name](https://thumb.ac-illust.com/55/5535b5c7b424719fd919469f2d7c55f9_t.jpeg?)  
 
 
 
@@ -24,6 +24,8 @@ Here are the technologies and tools I work with:
 - **Software:** Postman, Figma
 
 [<img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git Icon" width="70"/>](https://github.com/)
+[<img src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="Git Icon" width="70"/>](https://github.com/)
+
 
 
 
