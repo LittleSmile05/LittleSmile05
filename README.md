@@ -22,7 +22,7 @@ Here are the technologies and tools I work with:
 - **Database:** MS SQL Server,PostgreSQL
 - **Software:** Postman, Figma
 
-[<img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git Icon" width="100"/>](https://github.com/)
+[<img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git Icon" width="70"/>](https://github.com/)
 
 
 
