@@ -1,8 +1,6 @@
 # Hi there! 👋 I'm Gunel
 
-
-![Lofi Girl Using Laptop in Balcony](https://moewalls.com/wp-content/uploads/2022/06/lofi-girl-using-laptop-in-balcony-thumb.jpg?imh=300)
-
+![Image Name](https://i.ytimg.com/vi/-rb-5VLkNM4/maxresdefault.jpg?h=300)
 
 
 I'm a Computer Science student and web developer passionate about Machine Learning. Welcome to my GitHub profile!
