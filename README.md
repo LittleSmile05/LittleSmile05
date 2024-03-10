@@ -1,6 +1,7 @@
 # Hi there! 👋 I'm Gunel
 
-![Image Name](https://i.ytimg.com/vi/-rb-5VLkNM4/maxresdefault.jpg?h=300)
+![Image Name](https://kai-you.net/press/img/th_LO_lough.jpg?h=300)
+
 
 
 I'm a Computer Science student and web developer passionate about Machine Learning. Welcome to my GitHub profile!
