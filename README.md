@@ -1,5 +1,7 @@
 # Hi there! 👋 I'm Gunel
-![Steam User Image](https://steamuserimages-a.akamaihd.net/ugc/1816645198248182804/1BDF9EF43F46AB62A6A0B5DEBBAB37C2E313516A/?imw=512&amp;imh=323&amp;ima=fit&amp;impolicy=Letterbox&amp;imcolor=%23000000&amp;letterbox=true)
+
+![Lofi Girl Using Laptop in Balcony](https://moewalls.com/wp-content/uploads/2022/06/lofi-girl-using-laptop-in-balcony-thumb.jpg)
+
 
 
 I'm a Computer Science student and web developer passionate about Machine Learning. Welcome to my GitHub profile!
