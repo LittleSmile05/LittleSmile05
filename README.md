@@ -17,10 +17,10 @@ I'm a Computer Science student and web developer passionate about Machine Learni
 Here are the technologies and tools I work with:
 
 - **Web Development:** MERN Stack (MongoDB, Express.js, React, Node.js), HTML, CSS, JavaScript, TypeScript, Jquery
-- **Machine Learning:** Python, Tensorflow
+- **Machine Learning:** Python
 - **Programming Languages:** C++, SQL, Python
 - **Version Control:** Git/GitHub
-- **Database:** MS SQL Server,PostgreSQL
+- **Database:** MS SQL Server,PostgreSQL, Oracle
 - **Software:** Postman, Figma
 
 [<img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git Icon" width="70"/>](https://github.com/)
