@@ -1,6 +1,7 @@
 # Hi there! 👋 I'm Gunel
 
-![Image Name](https://i.pinimg.com/736x/4a/79/f2/4a79f2017ec7a9e39f39d0065b9f4556.jpg)
+![Image Name](https://github.com/LittleSmile05/LittleSmile05/raw/main/6d087b081af29c15b48e4ee77b111bf4.jpg)
+
 
 
 
