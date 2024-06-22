@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Gunel
 
-![Image Name](file:///C:/Users/gunel/Downloads/4a79f2017ec7a9e39f39d0065b9f4556.webp)
+![Image Name](https://i.pinimg.com/736x/4a/79/f2/4a79f2017ec7a9e39f39d0065b9f4556.jpg)
 
 
 
