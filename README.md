@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Gunel
 
-![Image Name](https://i.pinimg.com/736x/18/d0/3b/18d03b1da4185c82f21e52d1144c5e03.jpg)
+![Image Name](https://i.pinimg.com/736x/6d/08/7b/6d087b081af29c15b48e4ee77b111bf4.jpg)
 
 
 
