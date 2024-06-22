@@ -1,8 +1,7 @@
 # Hi there! 👋 I'm Gunel
 
-![Image Name](https://thumb.ac-illust.com/55/5535b5c7b424719fd919469f2d7c55f9_t.jpeg?)  
+![Image Name]([https://gunel-azizova.netlify.app/cat.gif](https://i.pinimg.com/736x/18/d0/3b/18d03b1da4185c82f21e52d1144c5e03.jpg))
 
-![Image Name](https://gunel-azizova.netlify.app/cat.gif)
 
 
 I'm a Computer Science student and web developer passionate about Machine Learning. Welcome to my GitHub profile!
