@@ -2,6 +2,7 @@
 
 ![Image Name](https://thumb.ac-illust.com/55/5535b5c7b424719fd919469f2d7c55f9_t.jpeg?)  
 
+![Image Name](https://gunel-azizova.netlify.app/cat.gif)
 
 
 I'm a Computer Science student and web developer passionate about Machine Learning. Welcome to my GitHub profile!
@@ -60,6 +61,6 @@ Here are the technologies and tools I work with:
 
 Feel free to reach out if you want to collaborate on a project, discuss ML
 
-- Website: https://gunelazizova-portfolio-80da80.netlify.app/
+- Website: https://gunel-azizova.netlify.app/
 
 Thanks for stopping by! 😊
