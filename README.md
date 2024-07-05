@@ -48,11 +48,6 @@ Here are the technologies and tools I work with:
 
 
 
-## Top Languages
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LittleSmile05&layout=compact)](https://github.com/LittleSmile05)
-
-
 ## Connect with Me
 
 - Linkedin: https://www.linkedin.com/in/gunel-azizova-604729259/
